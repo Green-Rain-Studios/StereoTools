@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "StereoTools",
+	"Description": "Stereo rendering tools",
+	"Category": "Other",
+	"CreatedBy": "Green Rain Studios",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "StereoTools",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
